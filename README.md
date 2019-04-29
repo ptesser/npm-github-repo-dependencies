@@ -20,7 +20,7 @@ It has generated the above code:
 
 I tried the flow with a **private** repository using a dumb source code.
 
-- Generate a GitHub token with `repo` scaope
+- Generate a GitHub token with `repo` scope
 - Insert the follow line inside `package.json`
 - Run `npm install`
 
